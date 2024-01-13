@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-13T16:04:53 IST" name="Suite" finished-at="2024-01-13T16:05:10 IST" duration-ms="17544">
+    <groups>
+    </groups>
+    <test started-at="2024-01-13T16:04:53 IST" name="Test" finished-at="2024-01-13T16:05:10 IST" duration-ms="17544">
+      <class name="ecommerce.assignment.Ecommerce">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:ecommerce.assignment.Ecommerce@51e69659]" started-at="2024-01-13T16:04:44 IST" name="launchBrowser" finished-at="2024-01-13T16:04:53 IST" duration-ms="8402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="ecommerce()[pri:0, instance:ecommerce.assignment.Ecommerce@51e69659]" started-at="2024-01-13T16:04:53 IST" name="ecommerce" finished-at="2024-01-13T16:05:10 IST" duration-ms="17491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecommerce -->
+        <test-method is-config="true" signature="killTask()[pri:0, instance:ecommerce.assignment.Ecommerce@51e69659]" started-at="2024-01-13T16:05:10 IST" name="killTask" finished-at="2024-01-13T16:05:11 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killTask -->
+      </class> <!-- ecommerce.assignment.Ecommerce -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
